@@ -10,3 +10,5 @@ Defaults to all messages sent by you up to last year.
 2. Adjust parameters in config.ini. Get these from https://my.telegram.org/apps
 3. Install requirements (from requirements.txt)
 4. Start the script: `python3 main.py`
+
+Note: This script does not deleted your "Saved Messages".
