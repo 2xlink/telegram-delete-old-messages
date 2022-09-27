@@ -2,7 +2,7 @@
 
 Removes old messages from Telegram.
 
-Defaults to all messages up to last year.
+Defaults to all messages sent by you up to last year.
 
 ## Usage
 
